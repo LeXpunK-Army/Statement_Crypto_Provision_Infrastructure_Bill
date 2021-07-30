@@ -5,9 +5,9 @@ LeXpunK_Army Statement On Crypto Provision In Draft U.S. Infrastructure Bill (fo
 
 **For LeXpunk Army members and supporters to send to their [Representatives](https://www.house.gov/representatives/find-your-representative) and [Senators](https://www.senate.gov/senators/senators-contact.htm)** 
 
-Although the U.S. Infrastructure Bill (“Bill”) is still being drafted, it has been widely reported that a new provision has been added which would expands the Tax Code's definition of "broker" to capture nearly every user of cryptocurrency, including non-custodial actors like miners and validators. The Bill purportedly expands the definition of a "broker" to include "any person who (for consideration) is responsible for and regularly provides any service effectuating transfers of digital assets."
+Although the U.S. Infrastructure Bill (“Bill”) is still being drafted, it has been widely reported that a new provision has been added which would expand the Tax Code's definition of "broker" to capture nearly every user of cryptocurrency, including non-custodial actors like miners and validators. The Bill purportedly expands the definition of a "broker" to include "any person who (for consideration) is responsible for and regularly provides any service effectuating transfers of digital assets."
 
-This language is overly broad, unenforceable, and will eliminate good paying U.S. jobs and reduce the state and federal tax base. The hastily drafted language will crush the cryptocurrency industry, stifle innovation, drive jobs overseas, and jeopardize Americans’ Fourth Amendment protections.
+This language is overly broad, unenforceable, will eliminate good paying U.S. jobs, and reduce the state and federal tax base. The hastily drafted language will crush the cryptocurrency industry, stifle innovation, drive jobs overseas, and jeopardize Americans’ Fourth Amendment protections.
 
 In fact, the language unnecessarily imposes reporting obligations on individuals and other participants in cryptocurrency transactions that don’t have access to the information required for this particular type of reporting. Instead of imposing a new tax on the cryptocurrency industry, the provision puts new reporting requirements on individual players in the industry who have no way to comply.
 

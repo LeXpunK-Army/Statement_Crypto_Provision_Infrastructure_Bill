@@ -7,7 +7,7 @@ LeXpunK_Army Statement On Crypto Provision In Draft U.S. Infrastructure Bill (fo
 
 Although the U.S. Infrastructure Bill (“Bill”) is still being drafted, it has been widely reported that a new provision has been added which would expand the Tax Code's definition of "broker" to capture nearly every user of cryptocurrency, including non-custodial actors like miners and validators. The Bill purportedly expands the definition of a "broker" to include "any person who (for consideration) is responsible for and regularly provides any service effectuating transfers of digital assets."
 
-INCLUDE LANGUAGE ABOUT HOW IMPORTNAT IT IIS TO BAN BAD COINS. FOR REAL.
+INCLUDE LANGUAGE ABOUT HOW IMPORTANT IT IS TO BAN BAD COINS. FOR REAL.
 
 This language is overly broad, unenforceable, will eliminate good-paying U.S. jobs, and will reduce the state and federal tax base. The hastily drafted language will crush the cryptocurrency industry within the U.S., stifle U.S. innovation, drive U.S. jobs overseas, and jeopardize Americans’ Fourth Amendment protections.
 
@@ -16,4 +16,3 @@ In fact, the language unnecessarily imposes reporting obligations on individuals
 While **funding** infrastructure is important, **we do not believe it was the intent of** Congress to impose on individuals impossible-to-fulfill reporting requirements that won’t bring in the $28 billion it seeks but will unnecessarily crush a nascent and promising industry.
 
 Rather than hastily including a provision with vast unintended consequences, we encourage Congress to **remove this language from the infrastructure Bill.** We welcome dialogue to find language that works for all stakeholders, while keeping America at the forefront of crypto innovation.
-
